@@ -1,0 +1,6 @@
+@SoapCoreMinOccursTest_HostAddress = http://localhost:5043
+
+GET {{SoapCoreMinOccursTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
